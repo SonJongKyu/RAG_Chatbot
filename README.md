@@ -30,10 +30,10 @@ Python: 3.12.1
 - pip freeze로 버전 기록 가능
 
 ```bash
-fastapi==0.109.1
-uvicorn==0.23.2
-sentence-transformers==2.2.2
-ollama==0.13.0
+fastapi==0.121.2
+uvicorn==0.38.0
+sentence-transformers==5.1.2
+ollama==0.6.1
 ```
 
 **하드웨어/스펙 정보**
@@ -152,7 +152,7 @@ uvicorn main:app --host 0.0.0.0 --port 8601 --reload
 ## 🌐 프론트엔드 개발 서버 실행
 
 ```bash
-# Node.js/NPM 설치
+# Node.js/NPM 설치(v18.19.1)
 sudo apt install npm
 
 # 패키지 설치
