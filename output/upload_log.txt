@@ -1,0 +1,31 @@
+2025-11-14 17:42:17.261677 - Uploaded file: test.pdf
+2025-11-14 17:43:43.280055 - Uploaded file: test.pdf
+2025-11-14 17:45:57.847753 - Uploaded file: test.pdf
+2025-11-14 17:46:50.298001 - Uploaded file: test.pdf
+2025-11-14 17:53:59.715060 - Uploaded file: test.pdf
+2025-11-14 17:54:00.502801 - Uploaded file: test.pdf
+2025-11-14 17:54:01.000746 - Uploaded file: test.pdf
+2025-11-14 17:54:01.443579 - Uploaded file: test.pdf
+2025-11-14 17:54:01.914008 - Uploaded file: test.pdf
+2025-11-14 17:54:36.658620 - Uploaded file: test.pdf
+2025-11-14 17:54:37.840427 - Uploaded file: test.pdf
+2025-11-14 18:00:08.634153 - Uploaded file: test.pdf
+2025-11-17 08:06:58.969732 - Uploaded file: test.pdf
+2025-11-17 08:56:37.985330 - Uploaded file: test.pdf
+2025-11-17 08:56:48.278461 - Uploaded file: test.pdf
+2025-11-17 09:02:47.719269 - Uploaded file: test.pdf, Chunks: 2
+2025-11-17 15:24:52.139474 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-17 15:41:57.349856 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-17 15:42:12.611003 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-17 15:49:26.753498 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-17 15:52:52.981052 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-17 15:54:39.829066 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-17 16:14:10.392018 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-17 17:34:02.118473 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-17 17:34:34.489359 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-17 17:48:37.378636 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-18 09:08:42.681855 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-18 09:53:47.503216 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-19 10:08:53.146601 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-19 12:26:58.358257 - Uploaded file: test.pdf, 청크 수: 5
+2025-11-19 12:27:28.430391 - Uploaded file: (금융기관용)온누리상품권 업무처리지침(250115).pdf, 청크 수: 34

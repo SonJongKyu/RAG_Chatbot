@@ -1,0 +1,29 @@
+{
+  "default": {
+    "strategy": "regular",
+    "chunk_size": 800,
+    "overlap": 80
+  },
+  "pdf": {
+    "법률.pdf": { "strategy": "law" },
+    "전통시장법.pdf": { "strategy": "law" },
+    "전통시장법_시행령.pdf": { "strategy": "law" },
+    "전통시장법_시행규칙.pdf": { "strategy": "law" },
+
+    "onnurigift.pdf": { "strategy": "page" },
+    "category.pdf": { "strategy": "category" }
+  },
+  "csv": {
+    "information.csv": {
+      "strategy": "column_record",
+      "mapping": {
+        "가맹점코드": 0,
+        "가맹점명": 1,
+        "가맹주성함": 2,
+        "가맹주번호": 3,
+        "사업자번호": 4,
+        "정보": 5
+      }
+    }
+  }
+}

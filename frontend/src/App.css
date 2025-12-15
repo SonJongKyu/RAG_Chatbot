@@ -1,0 +1,40 @@
+/* --------------------------------------------------
+File: ~/RAG_Chatbot/frontend/src/App.css
+Description: 메인 페이지 및 채팅 버튼 스타일 정의
+ -------------------------------------------------- */
+
+/* ===== 전체 화면 레이아웃 ===== */
+.App {
+  width: 100vw;
+  height: 100vh;
+  background-color: #b3e5ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* ===== 채팅 버튼 ===== */
+.chat-button {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+/* ===== 채팅 로고 ===== */
+.chat-logo {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  transition: 0.2s;
+}
+
+/* ===== 채팅 로고 호버 효과 ===== */
+.chat-logo:hover {
+  transform: scale(1.1);
+}
+
